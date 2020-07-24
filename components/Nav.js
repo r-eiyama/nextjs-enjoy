@@ -1,5 +1,12 @@
 import ActiveLink from './ActiveLink'
+import React from "react";
 
+/**
+ * ナビバーを作成する。
+ *
+ * @returns {*}
+ * @constructor
+ */
 const Nav = () => (
   <nav>
     <style jsx>{`
